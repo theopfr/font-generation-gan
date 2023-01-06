@@ -1,4 +1,6 @@
 */.fuse*
+.fuse*
 datasets/fonts.hdf5
 runs/*
-runs/dcgan-model
+!runs/dcgan-model
+runs/dcgan-model/result_images/*

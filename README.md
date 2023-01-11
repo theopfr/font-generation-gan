@@ -11,6 +11,10 @@ Ikogan Type             |  Squaregan Type
 
 
 ## ❕ About...
+## ... this project:
+This is the final project for my class "Design & Typography" (Hochschule München, Computer Science and Design, BSc. first Semester).
+I designed a [Typographic Manual](./typographic_manual.pdf) to summarize my results and wrote a small [documentation](./article/article.pdf) of my process.
+
 ## ... the model:
 The model was created similar as proposed by Hayashi et al. in the paper [GlyphGAN: Style-Consistent Font Generation Based on Generative Adversarial Networks](https://arxiv.org/abs/1905.12502).
 

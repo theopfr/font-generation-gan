@@ -1,0 +1,353 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{metaCreativity}{article}{}
+      \name{author}{1}{}{%
+        {{hash=c538bf2df146102a00de33124c486f89}{%
+           family={Runco},
+           familyi={R\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{c538bf2df146102a00de33124c486f89}
+      \strng{fullhash}{c538bf2df146102a00de33124c486f89}
+      \strng{bibnamehash}{c538bf2df146102a00de33124c486f89}
+      \strng{authorbibnamehash}{c538bf2df146102a00de33124c486f89}
+      \strng{authornamehash}{c538bf2df146102a00de33124c486f89}
+      \strng{authorfullhash}{c538bf2df146102a00de33124c486f89}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Creativity Research Journal}
+      \field{month}{07}
+      \field{title}{Meta-Creativity: Being Creative About Creativity}
+      \field{volume}{27}
+      \field{year}{2015}
+      \field{pages}{295\bibrangedash 298}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1080/10400419.2015.1065134
+      \endverb
+    \endentry
+    \entry{figmaUIDesignTool}{online}{}
+      \name{author}{1}{}{%
+        {{hash=a86fc3430821f57f16c0c8b000acf401}{%
+           family={Figma},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{a86fc3430821f57f16c0c8b000acf401}
+      \strng{fullhash}{a86fc3430821f57f16c0c8b000acf401}
+      \strng{bibnamehash}{a86fc3430821f57f16c0c8b000acf401}
+      \strng{authorbibnamehash}{a86fc3430821f57f16c0c8b000acf401}
+      \strng{authornamehash}{a86fc3430821f57f16c0c8b000acf401}
+      \strng{authorfullhash}{a86fc3430821f57f16c0c8b000acf401}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Figma UI Design Tool}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://www.figma.com/
+      \endverb
+      \verb{url}
+      \verb https://www.figma.com/
+      \endverb
+    \endentry
+    \entry{glyphGan}{article}{}
+      \name{author}{3}{}{%
+        {{hash=5f741411b2cfa1e8a8fb413a6040ce87}{%
+           family={Hayashi},
+           familyi={H\bibinitperiod},
+           given={Hideaki},
+           giveni={H\bibinitperiod}}}%
+        {{hash=d04574bb03bedc2f5c8a6266bf4d072a}{%
+           family={Abe},
+           familyi={A\bibinitperiod},
+           given={Kohtaro},
+           giveni={K\bibinitperiod}}}%
+        {{hash=f23d1d3c31776514f0505470f9d1308d}{%
+           family={Uchida},
+           familyi={U\bibinitperiod},
+           given={Seiichi},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{e022594d93a3b1e0b89d449d2515db07}
+      \strng{fullhash}{e022594d93a3b1e0b89d449d2515db07}
+      \strng{bibnamehash}{e022594d93a3b1e0b89d449d2515db07}
+      \strng{authorbibnamehash}{e022594d93a3b1e0b89d449d2515db07}
+      \strng{authornamehash}{e022594d93a3b1e0b89d449d2515db07}
+      \strng{authorfullhash}{e022594d93a3b1e0b89d449d2515db07}
+      \field{extraname}{1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{CoRR}
+      \field{title}{GlyphGAN: Style-Consistent Font Generation Based on Generative Adversarial Networks}
+      \field{volume}{abs/1905.12502}
+      \field{year}{2019}
+      \verb{eprint}
+      \verb 1905.12502
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1905.12502
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1905.12502
+      \endverb
+    \endentry
+    \entry{gan}{misc}{}
+      \name{author}{8}{}{%
+        {{hash=d4f74ef4c79f3bb1e51e378184d8850e}{%
+           family={Goodfellow},
+           familyi={G\bibinitperiod},
+           given={Ian\bibnamedelima J.},
+           giveni={I\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=a341d25f80a8118cdbb90b272adc8b4f}{%
+           family={Pouget-Abadie},
+           familyi={P\bibinithyphendelim A\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9e80f4779b032f68a6106e1424345450}{%
+           family={Mirza},
+           familyi={M\bibinitperiod},
+           given={Mehdi},
+           giveni={M\bibinitperiod}}}%
+        {{hash=743dd6cdaa6639320289d219d351d7b7}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Bing},
+           giveni={B\bibinitperiod}}}%
+        {{hash=e8151f1b8f85a048cacb34f374ec922b}{%
+           family={Warde-Farley},
+           familyi={W\bibinithyphendelim F\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=9ca00ffd7cc35f7cfb8f698aa9239c76}{%
+           family={Ozair},
+           familyi={O\bibinitperiod},
+           given={Sherjil},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ccec1ccd2e1aa86960eb2e872c6b7020}{%
+           family={Courville},
+           familyi={C\bibinitperiod},
+           given={Aaron},
+           giveni={A\bibinitperiod}}}%
+        {{hash=40a8e4774982146adc2688546f54efb2}{%
+           family={Bengio},
+           familyi={B\bibinitperiod},
+           given={Yoshua},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{90b0cf28b623a6bdb9c3cf9689d30bc6}
+      \strng{fullhash}{5afe3eb3246d0b46f32cdc5ff3e9d6b8}
+      \strng{bibnamehash}{5afe3eb3246d0b46f32cdc5ff3e9d6b8}
+      \strng{authorbibnamehash}{5afe3eb3246d0b46f32cdc5ff3e9d6b8}
+      \strng{authornamehash}{90b0cf28b623a6bdb9c3cf9689d30bc6}
+      \strng{authorfullhash}{5afe3eb3246d0b46f32cdc5ff3e9d6b8}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Generative Adversarial Networks}
+      \field{year}{2014}
+      \verb{doi}
+      \verb 10.48550/ARXIV.1406.2661
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/1406.2661
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/1406.2661
+      \endverb
+      \keyw{Machine Learning (stat.ML),Machine Learning (cs.LG),FOS: Computer and information sciences,FOS: Computer and information sciences}
+    \endentry
+    \entry{deepFonts}{online}{}
+      \name{author}{1}{}{%
+        {{hash=f4f1f7676a457d3fbefd5b7e64f0d566}{%
+           family={Bernhardsson},
+           familyi={B\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{f4f1f7676a457d3fbefd5b7e64f0d566}
+      \strng{fullhash}{f4f1f7676a457d3fbefd5b7e64f0d566}
+      \strng{bibnamehash}{f4f1f7676a457d3fbefd5b7e64f0d566}
+      \strng{authorbibnamehash}{f4f1f7676a457d3fbefd5b7e64f0d566}
+      \strng{authornamehash}{f4f1f7676a457d3fbefd5b7e64f0d566}
+      \strng{authorfullhash}{f4f1f7676a457d3fbefd5b7e64f0d566}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{deep-fonts}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://github.com/erikbern/deep-fonts
+      \endverb
+      \verb{url}
+      \verb https://github.com/erikbern/deep-fonts
+      \endverb
+    \endentry
+    \entry{glyphGanImage}{misc}{}
+      \name{author}{3}{}{%
+        {{hash=5f741411b2cfa1e8a8fb413a6040ce87}{%
+           family={Hayashi},
+           familyi={H\bibinitperiod},
+           given={Hideaki},
+           giveni={H\bibinitperiod}}}%
+        {{hash=d04574bb03bedc2f5c8a6266bf4d072a}{%
+           family={Abe},
+           familyi={A\bibinitperiod},
+           given={Kohtaro},
+           giveni={K\bibinitperiod}}}%
+        {{hash=f23d1d3c31776514f0505470f9d1308d}{%
+           family={Uchida},
+           familyi={U\bibinitperiod},
+           given={Seiichi},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{e022594d93a3b1e0b89d449d2515db07}
+      \strng{fullhash}{e022594d93a3b1e0b89d449d2515db07}
+      \strng{bibnamehash}{e022594d93a3b1e0b89d449d2515db07}
+      \strng{authorbibnamehash}{e022594d93a3b1e0b89d449d2515db07}
+      \strng{authornamehash}{e022594d93a3b1e0b89d449d2515db07}
+      \strng{authorfullhash}{e022594d93a3b1e0b89d449d2515db07}
+      \field{extraname}{2}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{GlyphGAN architecture}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://images.deepai.org/converted-papers/1905.12502/x2.png
+      \endverb
+      \verb{url}
+      \verb https://images.deepai.org/converted-papers/1905.12502/x2.png
+      \endverb
+    \endentry
+    \entry{paszke2019pytorch}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=56bf0b340039cf8594436a624ff548a9}{%
+           family={Paszke},
+           familyi={P\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4ba5062e5919c814aceec188d54c01f2}{%
+           family={Gross},
+           familyi={G\bibinitperiod},
+           given={Sam},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e5dfae4582081d649e3a0d5342050016}{%
+           family={Massa},
+           familyi={M\bibinitperiod},
+           given={Francisco},
+           giveni={F\bibinitperiod}}}%
+        {{hash=b5815e1692fa2d0c1f44eecf509bd7c4}{%
+           family={Lerer},
+           familyi={L\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b75383e6b48c8360c7a60031424c85cf}{%
+           family={Bradbury},
+           familyi={B\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f897ed422c34d95af2e22778dfc2607e}{%
+           family={Chanan},
+           familyi={C\bibinitperiod},
+           given={Gregory},
+           giveni={G\bibinitperiod}}}%
+        {{hash=046269e070246feb6f394141db80ed87}{%
+           family={Killeen},
+           familyi={K\bibinitperiod},
+           given={Trevor},
+           giveni={T\bibinitperiod}}}%
+        {{hash=c40352c194e60a3ef458ee7e8685afb5}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Zeming},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=6e45f49ec618e619efad90c8e8a61f0c}{%
+           family={Gimelshein},
+           familyi={G\bibinitperiod},
+           given={Natalia},
+           giveni={N\bibinitperiod}}}%
+        {{hash=f65a80959d520337ae99a0798515036c}{%
+           family={Antiga},
+           familyi={A\bibinitperiod},
+           given={Luca},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{932e06a08a48d67a815ffec45fdea7aa}
+      \strng{fullhash}{48a7dff01ec9361a039ff178d435ae04}
+      \strng{bibnamehash}{48a7dff01ec9361a039ff178d435ae04}
+      \strng{authorbibnamehash}{48a7dff01ec9361a039ff178d435ae04}
+      \strng{authornamehash}{932e06a08a48d67a815ffec45fdea7aa}
+      \strng{authorfullhash}{48a7dff01ec9361a039ff178d435ae04}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1912.01703}
+      \field{title}{Pytorch: An imperative style, high-performance deep learning library}
+      \field{year}{2019}
+    \endentry
+    \entry{fontGenerationGan}{online}{}
+      \name{author}{1}{}{%
+        {{hash=847a6b7c7d65617f78439744ab55c18a}{%
+           family={Peifer},
+           familyi={P\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{847a6b7c7d65617f78439744ab55c18a}
+      \strng{fullhash}{847a6b7c7d65617f78439744ab55c18a}
+      \strng{bibnamehash}{847a6b7c7d65617f78439744ab55c18a}
+      \strng{authorbibnamehash}{847a6b7c7d65617f78439744ab55c18a}
+      \strng{authornamehash}{847a6b7c7d65617f78439744ab55c18a}
+      \strng{authorfullhash}{847a6b7c7d65617f78439744ab55c18a}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{font-generation-gan}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://github.com/theopfr/font-generation-gan
+      \endverb
+      \verb{url}
+      \verb https://github.com/theopfr/font-generation-gan
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

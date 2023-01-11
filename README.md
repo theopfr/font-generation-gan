@@ -26,7 +26,7 @@ font_noise = torch.randn(100).repeat(26, 1)
 input_ = torch.cat((one_hot_letter, font_noise), dim=1).unsqueeze(2).unsqueeze(3).to(device=device)
 ```
 
-### ...the dataset:
+### ... the dataset:
 The dataset used was taken from the [deep-fonts](https://erikbern.com/2016/01/21/analyzing-50k-fonts-using-deep-neural-networks) creator and can be downloaded from Google Drive [here](https://drive.google.com/file/d/0B0GtwTQ6IF9AU3NOdzFzUWZ0aDQ/view?resourcekey=0-hJ4N66Y4_LeYPpnuLSvugw).
 It conisist of 56443 fonts, each containing of 62 64x64 images. For this project only the first 26 glyphs where used (upper-case only letters).
 

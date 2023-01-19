@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.1.8)  17 JAN 2023 11:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.1.8)  19 JAN 2023 10:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -466,46 +466,49 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {/home/theodorp/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}]
-<./images//glyphgan.png, id=8, 734.745pt x 365.365pt>
+<./images//glyphgan.png, id=9, 734.745pt x 365.365pt>
 File: ./images//glyphgan.png Graphic file (type png)
 <use ./images//glyphgan.png>
-Package pdftex.def Info: ./images//glyphgan.png  used on input line 59.
-(pdftex.def)             Requested size: 352.31624pt x 175.20038pt.
- [2] [3 <./images//glyphgan.png>]
-<./images//examples.png, id=16, 244.915pt x 66.2475pt>
+Package pdftex.def Info: ./images//glyphgan.png  used on input line 57.
+(pdftex.def)             Requested size: 305.33788pt x 151.8355pt.
+ [2 <./images//glyphgan.png>]
+<./images//examples.png, id=13, 244.915pt x 66.2475pt>
 File: ./images//examples.png Graphic file (type png)
 <use ./images//examples.png>
-Package pdftex.def Info: ./images//examples.png  used on input line 80.
-(pdftex.def)             Requested size: 234.87749pt x 63.5342pt.
-<./images//design.png, id=18, 1145.78062pt x 518.6878pt>
+Package pdftex.def Info: ./images//examples.png  used on input line 78.
+(pdftex.def)             Requested size: 211.3883pt x 57.17996pt.
+<./images//design.png, id=15, 1145.78062pt x 518.6878pt>
 File: ./images//design.png Graphic file (type png)
 <use ./images//design.png>
-Package pdftex.def Info: ./images//design.png  used on input line 91.
-(pdftex.def)             Requested size: 352.31624pt x 159.49358pt.
-Package placeins Info: No floats held, on input line 95.
-<./images//font_examples.png, id=19, 337.26pt x 381.425pt>
+Package pdftex.def Info: ./images//design.png  used on input line 89.
+(pdftex.def)             Requested size: 305.33788pt x 138.22723pt.
+Package placeins Info: No floats held, on input line 93.
+ [3
+Package placeins Info: Float barrier, from input line 93, processed on page 3, 
+lands on page 3. 
+ <./images//examples.png> <./images//design.png (PNG copy)>]
+<./images//font_examples.png, id=20, 337.26pt x 381.425pt>
 File: ./images//font_examples.png Graphic file (type png)
 <use ./images//font_examples.png>
-Package pdftex.def Info: ./images//font_examples.png  used on input line 103.
-(pdftex.def)             Requested size: 164.4171pt x 185.9512pt.
- [4
-Package placeins Info: Float barrier, from input line 95, processed on page 4, 
-lands on page 4. 
- <./images//examples.png> <./images//design.png (PNG copy)>]
-Package placeins Info: No floats held, on input line 107.
+Package pdftex.def Info: ./images//font_examples.png  used on input line 101.
+(pdftex.def)             Requested size: 117.43874pt x 132.81396pt.
+Package placeins Info: No floats held, on input line 105.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 109.
+(Font)              <10.95> on input line 107.
 
-Overfull \hbox (8.3521pt too wide) in paragraph at lines 110--110
+Overfull \hbox (8.3521pt too wide) in paragraph at lines 108--108
 \OT1/cmr/m/n/10.95 generative adversarial networks,'' \OT1/cmr/m/it/10.95 CoRR\
 OT1/cmr/m/n/10.95 , vol. abs/1905.12502, 2019. arXiv: $\OT1/cmtt/m/n/10.95 1905
  . 12502$\OT1/cmr/m/n/10.95 . [Online].
  []
 
-[5
-Package placeins Info: Float barrier, from input line 107, processed on page 5,
- lands on page 5. 
+[4
+Package placeins Info: Float barrier, from input line 105, processed on page 4,
+ lands on page 4. 
  <./images//font_examples.png>] (article.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package logreq Info: Writing requests to 'article.run.xml'.
 \openout1 = `article.run.xml'.
 
@@ -517,7 +520,7 @@ Here is how much of TeX's memory you used:
  31576 multiletter control sequences out of 15000+600000
  518272 words of font info for 52 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
- 60i,7n,68p,1238b,1293s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 60i,7n,68p,1238b,1295s stack positions out of 10000i,1000n,20000p,200000b,80000s
 </home/theodorp/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.
 pfb></home/theodorp/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmcsc
 10.pfb></home/theodorp/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cm
@@ -525,9 +528,9 @@ r10.pfb></home/theodorp/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/c
 mr12.pfb></home/theodorp/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/
 cmti10.pfb></home/theodorp/.miktex/texmfs/install/fonts/type1/public/amsfonts/c
 m/cmtt10.pfb>
-Output written on article.pdf (5 pages, 243835 bytes).
+Output written on article.pdf (4 pages, 243569 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
+ 52 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
